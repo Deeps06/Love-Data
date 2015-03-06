@@ -1,2 +1,4 @@
 # Love-Data
-My first repository
+My first repository on Git Hub!
+Learning a lot of new stuff !
+
